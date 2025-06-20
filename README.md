@@ -70,11 +70,5 @@ A decrease in trial initiation was seen post-vaccine rollout.
 
 Diverse and inconsistent outcome measures challenge unified interpretation.
 
-# 🧠 Technologies Used
 
-Python (Pandas, Matplotlib, Seaborn, WordCloud)
-
-Jupyter Notebook
-
-PowerPoint for reporting
 
